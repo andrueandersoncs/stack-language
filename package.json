@@ -1,0 +1,11 @@
+{
+  "name": "stack-language",
+  "version": "1.0.0",
+  "description": "A quick little stack language and interpreter using a Free Monad",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Andrue Anderson",
+  "license": "ISC"
+}
